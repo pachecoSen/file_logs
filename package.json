@@ -1,0 +1,27 @@
+{
+  "name": "file_logs",
+  "version": "0.0.1-beta",
+  "description": "Asistencia para generar archivos de registros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pachecoSen/file_logs.git"
+  },
+  "keywords": [
+    "logs",
+    "file",
+    "helping"
+  ],
+  "author": "Ignacio Pacheco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pachecoSen/file_logs/issues"
+  },
+  "homepage": "https://github.com/pachecoSen/file_logs#readme",
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
+}
